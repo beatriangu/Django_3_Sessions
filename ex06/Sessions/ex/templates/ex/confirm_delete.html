@@ -1,0 +1,16 @@
+<!-- ex/confirm_delete.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Confirmar Eliminación</title>
+</head>
+<body>
+    <h1>Confirmar Eliminación</h1>
+    <p>¿Estás seguro de que quieres eliminar este tip?</p>
+    <form method="post">
+        {% csrf_token %}
+        <button type="submit">Eliminar</button>
+        <a href="{% url 'homepage' %}">Cancelar</a>
+    </form>
+</body>
+</html>

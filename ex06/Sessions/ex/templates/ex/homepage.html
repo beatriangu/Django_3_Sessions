@@ -1,0 +1,47 @@
+{% extends 'ex/base.html' %}
+
+{% block content %}
+    <h1>Homepage</h1>
+
+    {% if user.is_authenticated %}
+        <h2>Add a new tip</h2>
+        <form method="post" action="{% url 'homepage' %}">
+            {% csrf_token %}
+            {{ form.as_p }}
+            <button type="submit" class="btn btn-primary">Add Tip</button>
+        </form>
+    {% endif %}
+
+    <h2>Tips List</h2>
+    <ul>
+        {% for tip in tips %}
+            <li>
+                {{ tip.content }} - by {{ tip.author.username }} ({{ tip.author.reputation }} points) on {{ tip.date_created }}
+                <p>Upvotes: {{ tip.upvotes_count }} | Downvotes: {{ tip.downvotes_count }}</p>
+                
+                {% if user.is_authenticated %}
+                    <form method="post" action="{% url 'upvote_tip' tip.id %}" style="display:inline;">
+                        {% csrf_token %}
+                        <button type="submit" class="btn btn-success">Upvote</button>
+                    </form>
+
+                    {% if user == tip.author or user.can_downvote %}
+                        <form method="post" action="{% url 'downvote_tip' tip.id %}" style="display:inline;">
+                            {% csrf_token %}
+                            <button type="submit" class="btn btn-danger">Downvote</button>
+                        </form>
+                    {% endif %}
+                    
+                    {% if user == tip.author or user.can_delete_tips %}
+                        <form method="post" action="{% url 'delete_tip' tip.id %}" style="display:inline;">
+                            {% csrf_token %}
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                        </form>
+                    {% endif %}
+                {% endif %}
+            </li>
+        {% empty %}
+            <li>No tips available.</li>
+        {% endfor %}
+    </ul>
+{% endblock %}
