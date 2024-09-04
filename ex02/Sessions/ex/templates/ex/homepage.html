@@ -1,0 +1,31 @@
+{% extends 'ex/base.html' %}
+
+{% block content %}
+    <h1>Welcome to the Life Pro Tips site!</h1>
+
+    {% if user.is_authenticated %}
+        <h2>Post a Tip</h2>
+        <form method="post">
+            {% csrf_token %}
+            {{ form.as_p }}
+            <button type="submit">Submit Tip</button>
+        </form>
+    {% endif %}
+
+    <h2>All Tips</h2>
+    <ul>
+        {% for tip in tips %}
+            <li>{{ tip.content }} - {{ tip.author }} - {{ tip.date_created }}</li>
+        {% empty %}
+            <li>No tips available.</li>
+        {% endfor %}
+    </ul>
+{% endblock %}
+
+
+
+
+
+
+
+
