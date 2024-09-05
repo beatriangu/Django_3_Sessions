@@ -4,6 +4,8 @@ ex00 This exercise focuses on managing anonymous user sessions in Django by usin
 
 
 ex01 the next step is to add user management by creating an authentication interface.Use of django_bootstrap5 in my case.
+![image](https://github.com/user-attachments/assets/3f4c38ee-0919-4a9a-9f52-9b71de04bcf9)
+
 
 ex02 Creating a Tip Mode,score it,list it. Contro of the  ModelForm used.
 
