@@ -7,10 +7,11 @@ ex01 the next step is to add user management by creating an authentication inter
 ### Images in a Single Line
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="https://github.com/user-attachments/assets/3f4c38ee-0919-4a9a-9f52-9b71de04bcf9" alt="Image 1" style="max-width: 30%; height: auto;">
-    <img src="https://github.com/user-attachments/assets/ad9fb1c9-3591-4aff-9a49-e564d7460b55" alt="Image 2" style="max-width: 30%; height: auto;">
-    <img src="https://github.com/user-attachments/assets/67ec7dff-25d5-4916-9825-9111c9b48964" alt="Image 3" style="max-width: 30%; height: auto;">
+    <img src="https://github.com/user-attachments/assets/3f4c38ee-0919-4a9a-9f52-9b71de04bcf9" alt="Image 1" style="max-width: 100px; height: auto;">
+    <img src="https://github.com/user-attachments/assets/ad9fb1c9-3591-4aff-9a49-e564d7460b55" alt="Image 2" style="max-width: 100px; height: auto;">
+    <img src="https://github.com/user-attachments/assets/67ec7dff-25d5-4916-9825-9111c9b48964" alt="Image 3" style="max-width: 100px; height: auto;">
 </div>
+
 
 
 
