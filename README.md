@@ -1,2 +1,4 @@
 # Django_3_Sessions
-The exercise involves creating a website project where users can post "Life Pro Tips." You need to implement an anonymous session system where users are assigned a random name from a list of 10 names for 42 seconds. This name should be persistent and displayed in a <nav> element on the homepage as "Hello user!" until the validity period ends. After 42 seconds, the name should change to a new random one. The name must be instantly visible across all pages without requiring a page reload.
+ex00 This exercise focuses on managing anonymous user sessions in Django by using sessions, middleware, and templates to handle temporarily assigned random names. Implementing sessions to store the name, middleware to manage its validity period, and templates to display the name fulfills the requirement of maintaining name persistence for 42 seconds and ensuring it appears instantly on the website.
+
+ex00
