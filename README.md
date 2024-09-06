@@ -28,4 +28,3 @@ ex06 By implementing a reputation-based system, users earn and lose permissions 
 
 
 
-
