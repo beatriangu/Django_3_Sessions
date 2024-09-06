@@ -14,7 +14,9 @@ ex05  Implementing fine-grained control over downvoting by using custom permissi
 ex06 By implementing a reputation-based system, users earn and lose permissions based on their activity and interaction with Tips, automating and refining user privileges based on their contributions and feedback received.
 
 
-
+<p align="left">
+  <img src="https://github.com/beatriangu/Libft/blob/main/100.png?raw=true" alt="100.png" width="150"/>
+</p>
 
 
 
