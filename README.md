@@ -12,7 +12,7 @@ ex00 This exercise focuses on managing anonymous user sessions in Django by usin
 ex01 the next step is to add user management by creating an authentication interface.Use of django_bootstrap5 in my case.<p align="left">
   <img src="https://github.com/beatriangu/Django_3_Sessions/blob/main/Screenshot%20from%202024-10-10%2014-03-48.png" alt="100.png" width="300"/>
 </p><p align="left">
-  <img src="https://github.com/beatriangu/Django_3_Sessions/blob/main/Screenshot%20from%202024-10-10%2014-03-48.png" alt="100.png" width="300"/>
+  <img src="https://github.com/beatriangu/Django_3_Sessions/blob/main/Screenshot%20from%202024-10-10%2014-45-24.png" alt="100.png" width="300"/>
 </p><p align="left">
   <img src="https://github.com/beatriangu/Django_3_Sessions/blob/main/Screenshot%20from%202024-10-10%2014-03-48.png" alt="100.png" width="300"/>
 </p><p align="left">
