@@ -16,8 +16,7 @@
 </p></p><p align="left">
   <img src="https://github.com/beatriangu/Django_3_Sessions/blob/main/Screenshot%20from%202024-10-10%2014-45-24.png" alt="100.png" width="300"/>
 </p><p align="left">
-  <img src="https://github.com/beatriangu/Django_3_Sessions/blob/main/Screenshot%20from%202024-10-10%2014-03-48.png" alt="100.png" width="300"/>
-
+  <img src="https://github.com/beatriangu/Django_3_Sessions/blob/main/Screenshot%20from%202024-10-10%2016-28-11.png" alt="100.png" width="300"/>
 ex02 Creating a Tip Mode,score it,list it. Control of the  ModelForm used.
 
 ex03 With the Tip system now functional, the next step is to add a voting and management control system.
