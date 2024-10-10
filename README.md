@@ -6,7 +6,7 @@
   <img src="https://github.com/beatriangu/Django_3_Sessions/blob/main/Screenshot%20from%202024-10-10%2014-03-05.png" alt="100.png" width="300"/>
 </p
  
-  - **After 42 seconds without refreshing the page...**
+                        - **After 42 seconds without refreshing the page...**
   
   <p align="center">
   <img src="https://github.com/beatriangu/Django_3_Sessions/blob/main/Screenshot%20from%202024-10-10%2014-03-48.png" alt="100.png" width="300"/>
