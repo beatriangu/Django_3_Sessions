@@ -11,13 +11,13 @@
  </p>
 
 - **ex01** 
- the next step is to add user management by creating an authentication interface.Use of django_bootstrap5 in my case.   <p align="left">
+ the next step is to add user management by creating an authentication interface.Use of django_bootstrap5 in my case.   <p align="center">
    <img src="https://github.com/beatriangu/Django_3_Sessions/blob/main/Screenshot%20from%202024-10-10%2014-44-46.png"   alt="100.png" width="300"/>
- </p><p align="left">
+ </p><p align="center">
    <img src="https://github.com/beatriangu/Django_3_Sessions/blob/main/Screenshot%20from%202024-10-10%2014-45-10.png".png" alt="100.png" width="300"/>
- </p></p><p align="left">
+ </p></p><p align="center">
   <img src="https://github.com/beatriangu/Django_3_Sessions/blob/main/Screenshot%20from%202024-10-10%2014-45-24.png" alt="100.png" width="300"/>
- </p><p align="left">
+ </p><p align="center">
   <img src="https://github.com/beatriangu/Django_3_Sessions/blob/main/Screenshot%20from%202024-10-10%2016-28-11.png" alt="100.png" width="300"/>
  
 - **ex02** 
