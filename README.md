@@ -4,14 +4,16 @@
  This exercise focuses on managing anonymous user sessions in Django by using sessions, middleware, and templates to handle temporarily assigned random names. Implementing sessions to store the name, middleware to manage its validity period, and templates to display the name fulfills the requirement of maintaining name persistence for 42 seconds and ensuring it appears instantly on the website.
 <p align="center">
   <img src="https://github.com/beatriangu/Django_3_Sessions/blob/main/Screenshot%20from%202024-10-10%2014-03-05.png" alt="100.png" width="300"/>
- 
- <p align="center">
-                        **After 42 seconds without refreshing the page...**
-   </p>
- 
-  <p align="center">
+</p>
+
+<p align="center">
+  <strong>After 42 seconds without refreshing the page...</strong>
+</p>
+
+<p align="center">
   <img src="https://github.com/beatriangu/Django_3_Sessions/blob/main/Screenshot%20from%202024-10-10%2014-03-48.png" alt="100.png" width="300"/>
- </p>
+</p>
+
 
 - **ex01** 
  the next step is to add user management by creating an authentication interface.Use of django_bootstrap5 in my case.   <p align="center">
