@@ -28,7 +28,7 @@
 - **ex02** 
  Creating a Tip Mode,score it,list it. Control of the  ModelForm used.
 
-</p><p align="center">
+</p><p align="left">
   <img src="https://github.com/beatriangu/Django_3_Sessions/blob/main/Screenshot%20from%202024-10-10%2017-26-49.png" width="300"/>
 
 - **ex03**
