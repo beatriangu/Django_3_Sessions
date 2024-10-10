@@ -36,7 +36,12 @@
 
 - **ex03**
   With the Tip system now functional, the next step is to add a voting and management control system.
-
+</p>
+</p><p align="center">
+ 
+   <img src="https://github.com/beatriangu/Django_3_Sessions/blob/main/Screenshot%20from%202024-10-10%2017-54-37.png"  alt="100.png" width="300"/>
+</p>
+  
 - **ex04** 
   This exercise focuses on enforcing authorization rules and ensuring that only permitted actions are allowed, with  an  exception for Tip authors.
 
