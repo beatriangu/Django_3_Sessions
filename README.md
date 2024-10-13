@@ -59,7 +59,7 @@
  <img src="https://github.com/beatriangu/Django_3_Sessions/blob/main/Screenshot%20from%202024-10-13%2012-00-36.png"  alt="100.png" width="300"/>
 </p>
  
-<p align="left">
+<p align="center">
   <img src="https://github.com/beatriangu/Libft/blob/main/100.png?raw=true" alt="100.png" width="150"/>
 </p>
 
