@@ -47,6 +47,11 @@
 
 - **ex05**
   Implementing fine-grained control over downvoting by using custom permissions, ensuring that only authorized users    can perform this action.
+  </p><p align="center">
+ 
+   <img src="https://github.com/beatriangu/Django_3_Sessions/blob/main/Screenshot%20from%202024-10-13%2010-39-32.png"  alt="100.png" width="300"/>
+</p>
+
 
 - **ex06**
   By implementing a reputation-based system, users earn and lose permissions based on their activity and interaction   with Tips, automating and refining user privileges based on their contributions and feedback received.
